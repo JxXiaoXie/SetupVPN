@@ -1,2 +1,2 @@
-# -SetupVPN
+# SetupVPN
 setupvpn for chrome
